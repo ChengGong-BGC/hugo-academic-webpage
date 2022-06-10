@@ -38,9 +38,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:cgong@bgc-jena.mpg.de
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Dr_Cheng_Gong
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Cheng-Gong-2    
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=DsdM55YAAAAJ&hl=en&oi=sra
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
