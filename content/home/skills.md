@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 100%
-    icon: circle-f
+    icon: <i class="fa-solid fa-circle-f"></i>
     icon_pack: fab
     name: Fortran
   - description: 100%
