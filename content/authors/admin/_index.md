@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Cheng Gong
+title: Dr. Cheng Gong (宫成)
 
 # Is this the primary user of the site?
 superuser: true
