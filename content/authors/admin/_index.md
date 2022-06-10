@@ -65,8 +65,5 @@ email: 'cgong@jena-bgc.mpg.de'
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Cheng Gong works as the postdoctroal fellow at Max Planck Institute for Biogeochemistry in Jena, Germany. His research interests include global biogeochemistry C-N cycles, atmosphere-biosphere interactions and atmospheric chemistry. He uses both of the atmospheric chemistry tranpsort model (GEOS-Chem) and terrestrial land model (QUINCY, ICON-L) to better understand the complex biogeochemical cycles globally and their impacts on climate.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
