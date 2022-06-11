@@ -21,16 +21,19 @@ feature:
     icon_pack: fas
     name: Fortran
   - description: 100%
-    icon: circle-n
+    icon: n
     icon_pack: fas
     name: NCL
   - description: 80%
-    icon: circle-P
+    icon: p
     icon_pack: fas
     name: Python
   - icon: language
     icon_pack: fas
     name: Mandarin, English
+  - icon: earth
+    icon_pack: fas
+    name: Modeling
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
