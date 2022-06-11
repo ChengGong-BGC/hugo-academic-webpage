@@ -13,7 +13,7 @@ doi: Geophysical Research Letters 48(12)
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: figure1.png
   focal_point: ""
   preview_only: false
 date: 2021-06-11T09:08:03.129Z
