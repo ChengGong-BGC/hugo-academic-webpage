@@ -9,7 +9,8 @@ authors:
   - X Yue
   - Y Ma
   - Y Lei
-doi: Geophysical Research Letters 48(12)
+doi: doi.org/10.1029/2021GL093814
+publication: Geophysical Research Letters 48 (12), e2021GL093814
 draft: false
 featured: false
 image:
