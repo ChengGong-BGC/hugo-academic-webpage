@@ -1,5 +1,5 @@
 ---
-title: Impacts of Ozone‐Vegetation Interactions on Ozone Pollution Episodes in
+title: Impacts of Ozone-Vegetation Interactions on Ozone Pollution Episodes in
   North China and the Yangtze River Delta
 publication_types:
   - "2"
