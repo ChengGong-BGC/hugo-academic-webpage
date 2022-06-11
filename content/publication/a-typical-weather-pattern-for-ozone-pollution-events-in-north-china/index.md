@@ -1,5 +1,6 @@
 ---
-title: A typical weather pattern for ozone pollution events in North China
+title: A typical weather pattern for ozone pollution events in North China （2019）
+subtitle: ""
 publication_types:
   - "2"
 authors:
@@ -14,5 +15,5 @@ image:
   filename: 概念图.png
   focal_point: ""
   preview_only: false
-date: 2022-06-11T08:44:34.679Z
+date: 2022-06-11T08:51:00.000Z
 ---
