@@ -17,19 +17,19 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 100%
-    icon: <i class="fa-solid fa-circle-f"></i>
-    icon_pack: fab
+    icon: circle-f
+    icon_pack: fas
     name: Fortran
   - description: 100%
     icon: circle-n
-    icon_pack: fab
+    icon_pack: fas
     name: NCL
   - description: 80%
     icon: circle-P
-    icon_pack: fab
+    icon_pack: fas
     name: Python
   - icon: language
-    icon_pack: fab
+    icon_pack: fas
     name: Mandarin, English
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
