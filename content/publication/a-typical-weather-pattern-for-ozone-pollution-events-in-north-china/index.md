@@ -8,7 +8,7 @@ authors:
   - H Liao
 author_notes: []
 doi: 10.5194/acp-19-13725-2019
-publication: Atmospheric Chemistry and Physics
+publication: Atmospheric Chemistry and Physics 19 (22), 13725-13740
 draft: false
 featured: false
 image:
