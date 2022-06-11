@@ -9,7 +9,7 @@ authors:
   - M Wang
   - Z Zhang
   - T L'Ecuyer
-doi: doi.org/10.5194/acp-18-1763-2018
+doi: https://doi.org/10.5194/acp-18-1763-2018
 publication: Atmospheric Chemistry and Physics 18 (3), 1763-1783
 draft: false
 featured: false
