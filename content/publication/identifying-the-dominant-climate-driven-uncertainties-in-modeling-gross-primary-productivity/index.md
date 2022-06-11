@@ -4,13 +4,13 @@ title: Identifying the dominant climate-driven uncertainties in modeling gross
 publication_types:
   - "2"
 authors:
-  - Yimian Ma
-  - Xu Yue
-  - Hao Zhou
-  - Cheng Gong
-  - Yadong Lei
-  - Chenguang Tian
-  - Yang Cao
+  - Y Ma
+  - X Yue
+  - H Zhou
+  - C Gong
+  - Y Lei
+  - C Tian
+  - Y Cao
 doi: 10.1016/j.scitotenv.2021.149518
 publication: Science of The Total Environment 800, 149518
 draft: false
