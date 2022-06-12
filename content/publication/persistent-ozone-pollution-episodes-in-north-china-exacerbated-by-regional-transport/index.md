@@ -13,7 +13,7 @@ authors:
 doi: 10.1016/j.envpol.2020.115056
 publication: Environmental Pollution 265, 115056
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: ""
