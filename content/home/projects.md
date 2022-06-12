@@ -24,18 +24,18 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-    - name: Ozone pollutions episodes in North China
-      tag: '1'
-    - name: Ozone-vegetation interaction
-      tag: 2
-    - name: N limiatation on global C cycles
-      tag: 3
-    - name: Biogeochemical cycles and atmosphere-biosphere interactions
-      tag: 4
+ # filter_button:
+ #   - name: Ozone pollutions episodes in North China
+ #     tag: '1'
+ #   - name: Ozone-vegetation interaction
+ #     tag: 2
+ #   - name: N limiatation on global C cycles
+ #     tag: 3
+ #   - name: Biogeochemical cycles and atmosphere-biosphere interactions
+ #     tag: 4
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
+  columns: '2'
 
   # Toggle between the various page layout types.
   #   1 = List
