@@ -12,7 +12,7 @@ authors:
 doi: https://doi.org/10.1029/2021GL093814
 publication: Geophysical Research Letters 48 (12), e2021GL093814
 draft: false
-featured: false
+featured: true
 image:
   filename: figure1.png
   focal_point: ""
