@@ -21,11 +21,11 @@ feature:
     icon_pack: fas
     name: Fortran
   - description: 100%
-    icon: n
+    icon: bollon
     icon_pack: fas
     name: NCL
   - description: 80%
-    icon: p
+    icon: python
     icon_pack: fas
     name: Python
   - icon: language
