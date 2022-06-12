@@ -14,7 +14,7 @@ authors:
 doi: 10.1029/2022EF002671
 publication: Earth's Future, e2022EF002671
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: ""
