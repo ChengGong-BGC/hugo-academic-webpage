@@ -10,7 +10,7 @@ links:
   - url: https://www.sciencedirect.com/science/article/abs/pii/S0269749120325537
     name: Regional transport paper
 image:
-  filename: 概念图.png
+  filename: final.png
   focal_point: Smart
   preview_only: false
 ---
