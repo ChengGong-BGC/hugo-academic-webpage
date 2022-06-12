@@ -12,7 +12,7 @@ authors:
 doi: 10.5194/acp-20-3841-2020
 publication: Atmospheric Chemistry and Physics 20(6):3841-3857
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
