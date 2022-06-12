@@ -2,11 +2,12 @@
 slides: example
 url_pdf: ""
 date: 2022-06-12T12:42:46.493Z
-summary: An example of using the in-built project page.
+summary: ""
 url_video: ""
 title: Ozone pollutions episodes in North China
 featured: false
-tags: []
+tags:
+  - "1"
 external_link: ""
 url_slides: ""
 links:
@@ -15,7 +16,7 @@ links:
   - url: https://www.sciencedirect.com/science/article/abs/pii/S0269749120325537
     name: Regional transport paper
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: A typical weather pattern for ozone pollution episodes in North China
   focal_point: Smart
   filename: 概念图.png
 url_code: ""
