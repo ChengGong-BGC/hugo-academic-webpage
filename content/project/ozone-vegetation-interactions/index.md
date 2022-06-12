@@ -6,10 +6,15 @@ featured: false
 links:
   - url: https://iopscience.iop.org/article/10.1088/1748-9326/abecbb/meta
     name: O3RH index paper
+  - url: https://acp.copernicus.org/articles/20/3841/2020/
+    name: ModelE2-YIBs paper
+  - url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GL093814
+    name: GC-YIBs paper
 image:
-  filename: featured
+  filename: figure1.png
   focal_point: Smart
   preview_only: false
+  caption: Ozone-vegetation interactions
 ---
 Ground-level ozone and vegetation have complex interactions. On the on hand, vegetation acts as both of the sources (BVOCs emissions) and sinks (stomatal dry deposition) for ozone; On the other hand, ozone exposure would lead to detrimental effects on vegetation and suppress plant growth. 
 
