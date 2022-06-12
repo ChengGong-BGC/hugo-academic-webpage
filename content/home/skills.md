@@ -21,7 +21,7 @@ feature:
     icon_pack: fas
     name: Fortran
   - description: 100%
-    icon: bollon
+    icon: n
     icon_pack: fab
     name: NCL
   - description: 80%
