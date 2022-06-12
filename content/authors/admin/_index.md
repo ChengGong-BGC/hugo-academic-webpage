@@ -65,5 +65,5 @@ email: 'cgong@jena-bgc.mpg.de'
 highlight_name: true
 ---
 
-Cheng Gong works as the postdoctroal fellow at Max Planck Institute for Biogeochemistry in Jena, Germany. His research interests include global biogeochemistry C-N cycles, atmosphere-biosphere interactions and atmospheric chemistry. He uses both of the atmospheric chemistry tranpsort model (GEOS-Chem) and terrestrial land model (QUINCY, ICON-L) to better understand the complex biogeochemical cycles globally and their impacts on climate.
+Cheng Gong works as the postdoctroal fellow at Max Planck Institute for Biogeochemistry in Jena, Germany. His research interests include global biogeochemistry C-N cycles, atmosphere-biosphere interactions and atmospheric chemistry. He uses the atmospheric chemistry tranpsort model (GEOS-Chem), earth system model (ModelE2-YIBs) and terrestrial land model (QUINCY, ICON-L) to better understand the complex biogeochemical cycles globally and their impacts on climate.
 
