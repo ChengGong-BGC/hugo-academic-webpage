@@ -22,11 +22,11 @@ feature:
     name: Fortran
   - description: 100%
     icon: bollon
-    icon_pack: fas
+    icon_pack: fab
     name: NCL
   - description: 80%
     icon: python
-    icon_pack: fas
+    icon_pack: fab
     name: Python
   - icon: language
     icon_pack: fas
