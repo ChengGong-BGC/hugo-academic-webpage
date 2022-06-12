@@ -3,8 +3,15 @@ title: Ozone pollution episodes in North China
 date: 2022-06-12T12:53:50.948Z
 draft: false
 featured: false
+tags:
+  - "1"
+links:
+  - url: https://acp.copernicus.org/articles/19/13725/2019/
+    name: Typical weather pattern paper
+  - url: https://www.sciencedirect.com/science/article/abs/pii/S0269749120325537
+    name: Regional transport paper
 image:
-  filename: featured
+  filename: 概念图.png
   focal_point: Smart
   preview_only: false
 ---
