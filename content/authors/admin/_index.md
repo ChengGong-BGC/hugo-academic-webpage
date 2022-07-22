@@ -11,7 +11,7 @@ role: Postdoc
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Max Planck Institute for Biogeochemistry
-    url: https://www.bgc-jena.mpg.de/index.php/Main/HomePage
+    url: https://www.bgc-jena.mpg.de/en
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include global biogeochemical C-N cycles, atmosphere-biosphere interactions and atmospheric chemistry.
