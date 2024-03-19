@@ -5,9 +5,11 @@ draft: false
 featured: false
 links:
   - url: https://www.sciencedirect.com/science/article/pii/S245222362400018X
+    name: Anthropogenic-driven perturbations on nitrogen cycles and interactions
+      with climate changes
 image:
   filename: figure_new.png
-  focal_point: Smart
+  focal_point: Center
   preview_only: false
   caption: The global N cycles and interactions with climate changes.
 ---
