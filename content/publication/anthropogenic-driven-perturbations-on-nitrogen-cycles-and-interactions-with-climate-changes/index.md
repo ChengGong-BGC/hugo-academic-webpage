@@ -25,7 +25,7 @@ abstract: Anthropogenic activities have substantially perturbed the global
   understanding and develop cobenefits for both environmental protection and
   climate change mitigation.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
