@@ -7,8 +7,8 @@ authors:
   - Cheng Gong
   - Sian Kou-Giesbrecht
   - Sönke Zaehle
-author_notes:
-  - https://doi.org/10.1016/j.cogsc.2024.100897
+author_notes: []
+doi: https://doi.org/10.1016/j.cogsc.2024.100897
 publication: Current Opinion in Green and Sustainable Chemistry
 abstract: Anthropogenic activities have substantially perturbed the global
   nitrogen (N) cycle directly through enhancing reactive N (Nr) inputs and
