@@ -4,9 +4,9 @@ title: Anthropogenic-driven perturbations on nitrogen cycles and interactions
 publication_types:
   - "2"
 authors:
-  - Cheng Gong
-  - Sian Kou-Giesbrecht
-  - Sönke Zaehle
+  - C Gong
+  - S Kou-Giesbrecht
+  - S Zaehle
 author_notes: []
 doi: https://doi.org/10.1016/j.cogsc.2024.100897
 publication: Current Opinion in Green and Sustainable Chemistry
