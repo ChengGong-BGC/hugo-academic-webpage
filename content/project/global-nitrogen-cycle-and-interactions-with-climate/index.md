@@ -10,7 +10,7 @@ links:
 image:
   filename: figure_new.png
   focal_point: Center
-  preview_only: false
+  preview_only: true
   caption: The global N cycles and interactions with climate changes.
 ---
 Anthropogenic reactive nitrogen (Nr) has significantly perturbated the global N cycle since the industrial revolution. However, the complexity of Nr cascades impedes further understanding in the effects of anthropogenic Nr. 
